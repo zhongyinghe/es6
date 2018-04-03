@@ -5,3 +5,6 @@
 * 1.4 [暂时性死区](let-c/tdz.es6)
 * 1.5 [暂时性死区-隐蔽](let-c/tdz2.es6)
 * 1.6 [不要重复声明](let-c/notrepeat.es6)
+* 1.7 [为什么要使用块作用域](let-c/why-block.es6)
+* 1.8 [块作用域](let-c/block.es6)
+* 1.9 [块作用域与函数声明](let-c/block-func.es6)
