@@ -1,4 +1,4 @@
-* 1、[let和const命令](#)
+### 1、 [let和const命令](#)
 * 1.1 [let了解](let-c/let.es6)
 * 1.2 [let和var在for内的理解](let-c/var-for.es6)
 * 1.3 [先声明后使用](let-c/var-let-p.es6)
@@ -8,3 +8,6 @@
 * 1.7 [为什么要使用块作用域](let-c/why-block.es6)
 * 1.8 [块作用域](let-c/block.es6)
 * 1.9 [块作用域与函数声明](let-c/block-func.es6)
+* 1.10 [const](let-c/const.es6)
+* 1.11 [const本质](let-c/const-nature.es6)
+* 1.12 [令人迷惑的顶层对象](let-c/win-var.es6)
