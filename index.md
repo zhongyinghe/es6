@@ -4,4 +4,4 @@
 * 1.3 [先声明后使用](let-c/var-let-p.es6)
 * 1.4 [暂时性死区](let-c/tdz.es6)
 * 1.5 [暂时性死区-隐蔽](let-c/tdz2.es6)
-* 1.6 [不要重复声明](notrepeat.es6)
+* 1.6 [不要重复声明](let-c/notrepeat.es6)
