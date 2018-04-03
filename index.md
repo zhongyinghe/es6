@@ -2,3 +2,5 @@
 * 1.1 [let了解](let-c/let.es6)
 * 1.2 [let和var在for内的理解](let-c/var-for.es6)
 * 1.3 [先声明后使用](let-c/var-let-p.es6)
+* 1.4 [暂时性死区](let-c/tdz.es6)
+* 1.5 [暂时性死区-隐蔽](let-c/tdz2.es6)
