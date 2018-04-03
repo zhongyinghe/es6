@@ -11,3 +11,6 @@
 * 1.10 [const](let-c/const.es6)
 * 1.11 [const本质](let-c/const-nature.es6)
 * 1.12 [令人迷惑的顶层对象](let-c/win-var.es6)
+
+### 附录
+* A [理解一](understand.md)
