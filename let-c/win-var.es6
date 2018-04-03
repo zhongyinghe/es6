@@ -3,6 +3,7 @@
 
 var a = 1;
 console.log(window.a)//实际上会报window为undefined
+//疑问:一个是变量(var a)；而一个是对象的属性(window.a)，它们怎么能够等同呢
 
 let b = 1;
 console.log(window.b) // undefined
