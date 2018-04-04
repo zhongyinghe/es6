@@ -23,6 +23,7 @@
 * 2.8 [数值和布尔值的解构赋值](dst/number-bool-dst.es6)
 * 2.9 [函数参数的解构赋值](dst/func-param-dst.es6)
 * 2.10 [圆括号问题](dst/pl-dst.es6)
+* 2.11 [解构赋值用途](dst/use-dst.es6)
 
 ### 附录
 * A [理解一](understand.md)
