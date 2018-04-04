@@ -16,6 +16,9 @@
 * 2.1 [什么是数组解构赋值](dst/array-start-dst.es6)
 * 2.2 [不完全解构和右边不是数组](dst/array-part-dst.es6)
 * 2.3 [数组解构默认值](dst/array-default-dst.es6)
+* 2.4 [什么是对象解构赋值](dst/object-dst.es6)
+* 2.5 [对象解构默认值](dst/object-default-dst.es6)
+* 2.6 [对象解构的特殊使用](dst/object-error-dst.es6)
 
 ### 附录
 * A [理解一](understand.md)
