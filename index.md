@@ -19,6 +19,7 @@
 * 2.4 [什么是对象解构赋值](dst/object-dst.es6)
 * 2.5 [对象解构默认值](dst/object-default-dst.es6)
 * 2.6 [对象解构的特殊使用](dst/object-error-dst.es6)
+* 2.7 [字符串的解构赋值](dst/string-dst.es6)
 
 ### 附录
 * A [理解一](understand.md)
