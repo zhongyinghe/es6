@@ -12,5 +12,10 @@
 * 1.11 [const本质](let-c/const-nature.es6)
 * 1.12 [令人迷惑的顶层对象](let-c/win-var.es6)
 
+### 2、变量的解构赋值
+* 2.1 [什么是数组解构赋值](dst/array-start-dst.es6)
+* 2.2 [不完全解构和右边不是数组](dst/array-part-dst.es6)
+* 2.3 [数组解构默认值](dst/array-default-dst.es6)
+
 ### 附录
 * A [理解一](understand.md)
