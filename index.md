@@ -20,6 +20,8 @@
 * 2.5 [对象解构默认值](dst/object-default-dst.es6)
 * 2.6 [对象解构的特殊使用](dst/object-error-dst.es6)
 * 2.7 [字符串的解构赋值](dst/string-dst.es6)
+* 2.8 [数值和布尔值的解构赋值](dst/number-bool-dst.es6)
+* 2.9 [函数参数的解构赋值](dst/func-param-dst.es6)
 
 ### 附录
 * A [理解一](understand.md)
