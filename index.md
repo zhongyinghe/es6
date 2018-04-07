@@ -25,5 +25,10 @@
 * 2.10 [圆括号问题](dst/pl-dst.es6)
 * 2.11 [解构赋值用途](dst/use-dst.es6)
 
+### 3、字符串扩展
+* 3.1 [字符串遍历和at](string/for.es6)
+* 3.2 [字符串函数](string/string-func.es6)
+* 3.3 [模板字符串](string/tpl-str.es6)
+* 3.4 [标签模板](string/tag-tpl.es6)
 ### 附录
 * A [理解一](understand.md)
