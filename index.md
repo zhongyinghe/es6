@@ -34,5 +34,6 @@
 ### 4、正则表达式
 * 4.1 [构造函数、方法和u修饰符](regexp/start_reg.es6)
 * 4.2 [y修饰符](regexp/y_reg.es6)
+* 4.3 [s修饰符和后行断言](regexp/fsa_reg.es6)
 ### 附录
 * A [理解一](understand.md)
