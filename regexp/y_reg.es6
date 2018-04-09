@@ -82,3 +82,10 @@ function tokenize(TOKEN_REGEX, str) {
   }
   return result;
 }
+
+console.log("------------------------")
+
+//sticky属性
+//说明:与y修饰符相匹配，ES6 的正则对象多了sticky属性，表示是否设置了y修饰符
+var rg = /hello\d/y
+console.log(rg.sticky)
