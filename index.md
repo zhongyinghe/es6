@@ -30,5 +30,8 @@
 * 3.2 [字符串函数](string/string-func.es6)
 * 3.3 [模板字符串](string/tpl-str.es6)
 * 3.4 [标签模板](string/tag-tpl.es6)
+
+### 4、正则表达式
+* 4.1 [构造函数、方法和u修饰符](regexp/start_reg.es6)
 ### 附录
 * A [理解一](understand.md)
