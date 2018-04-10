@@ -37,5 +37,11 @@
 * 4.3 [s修饰符和后行断言](regexp/fsa_reg.es6)
 * 4.4 [具名组匹配](regexp/name_reg.es6)
 * 4.5 [matchAll](regexp/matchAll_reg.es6)
+
+### 5、数值扩展
+* 5.1 [数值检测和NaN检测](number/start_num.es6)
+* 5.2 [整数判断和数值范围](number/int_num.es6)
+* 5.3 [math函数](number/math_num.es6)
+
 ### 附录
 * A [理解一](understand.md)
