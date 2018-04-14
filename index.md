@@ -43,5 +43,11 @@
 * 5.2 [整数判断和数值范围](number/int_num.es6)
 * 5.3 [math函数](number/math_num.es6)
 
+### 6、函数扩展
+* 6.1 [参数默认值](func/start_func.es6)
+* 6.2 [rest参数、严格模式和name属性](func/mdl_func.es6)
+* 6.3 [箭头函数](func/arrow_func.es6)
+* 6.4 [尾调用](func/tail_call_func.es6)
+
 ### 附录
 * A [理解一](understand.md)
