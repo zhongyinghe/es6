@@ -51,6 +51,9 @@
 
 ### 7、数组扩展
 * 7.1 [扩展运算符](array/start_array.es6)
+* 7.2 [Array.from](array/from_array.es6)
+* 7.3 [Array.of、copyWithin和find](array/zh_array.es6)
+* 7.4 [fill、entries、includes和数组空位](array/last_array.es6)
 
 ### 附录
 * A [理解一](understand.md)
