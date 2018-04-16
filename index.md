@@ -49,5 +49,8 @@
 * 6.3 [箭头函数](func/arrow_func.es6)
 * 6.4 [尾调用](func/tail_call_func.es6)
 
+### 7、数组扩展
+* 7.1 [扩展运算符](array/start_array.es6)
+
 ### 附录
 * A [理解一](understand.md)
