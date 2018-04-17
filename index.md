@@ -55,5 +55,11 @@
 * 7.3 [Array.of、copyWithin和find](array/zh_array.es6)
 * 7.4 [fill、entries、includes和数组空位](array/last_array.es6)
 
+### 8、对象扩展
+* 8.1 [属性的简洁表示法](object/prop_object.es6)
+* 8.2 [属性名表示和方法的name属性](object/prop_method.es6)
+* 8.3 [Object.is](object/is_object.es6)
+* 8.4 [Object.assign](object/assign_object.es6)
+
 ### 附录
 * A [理解一](understand.md)
