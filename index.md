@@ -60,6 +60,12 @@
 * 8.2 [属性名表示和方法的name属性](object/prop_method.es6)
 * 8.3 [Object.is](object/is_object.es6)
 * 8.4 [Object.assign](object/assign_object.es6)
+* 8.5 [属性的可枚举性](object/enum_object.es6)
+* 8.6 [自身属性的描述对象](object/des_object.es6)
+* 8.7 [对象自身的proto属性](object/proto_object.es6)
+* 8.8 [super关键字](object/super_object.es6)
+* 8.9 [对象遍历](object/value_object.es6)
+* 8.10 [对象扩展运算符](object/ext_object.es6)
 
 ### 附录
 * A [理解一](understand.md)
