@@ -85,3 +85,4 @@ print('-----------上面示例:proxy设置多个拦截操作------------')
 
 //总结:
 //proxy: var proxy = new Proxy(target, handler);
+//Proxy核心是拦截，在特定的触发条件下进行特定的拦截
