@@ -21,6 +21,9 @@
 * 11.4 [Proxy实例方法-其他实例方法](proxy/method_proxy3.es6)
 * 11.5 [revocable、this问题和示例应用](proxy/last_proxy.es6)
 
+# 12、Reflect
+* 12.1 [Reflect](reflect/start_reflect.es6)
+
 ### 应用
 * [Set工具](example/set.es6)
 * [Map工具](example/map.es6)
