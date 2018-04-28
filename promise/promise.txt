@@ -1,0 +1,42 @@
+1、Promise
+	是个对象;参数是个函数;功能:执行异步操作
+	
+2、function参数
+	resolve(未完成=>成功)
+	reject(未完成=>成功)
+	
+3、then
+	目的:为Promise示例添加状态改变时的回调函数，并返回新的Promise实例
+	
+	promise.then(function(value){
+		success//resolve状态
+	}, function(err){
+		error//reject状态
+	});
+	
+4、catch
+	用途:用于指定错误发生时的回调函数
+	
+5、finally:
+	不管Promise最后的状态如何，都会执行的操作
+	
+6、all:
+	将多个Promise实例包装成一个新的Promise实例
+	p1,p2,p3都成功才成功
+	p1,p2,p3有一个失败，则失败，返回第一个失败的返回值
+	
+7、race
+	将多个Promise实例包装成一个新的Promise实例
+	p1,p2,p3只要有一个实例率先改变,p的状态就跟着改变
+	
+8、resolve:
+	将现有的对象转为Promise对象，状态为resolved
+	
+9、reject:
+	将现有的对象转为Promise对象，状态为rejected
+	
+10、try
+	让同步函数同步执行，异步函数异步执行，并且让它们具有统一的 API
+	Promise.try(f)
+	
+总结:使用Promise进行异步操作,对结果的resolved和reject状态进行处理
