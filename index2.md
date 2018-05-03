@@ -36,6 +36,11 @@
 * 13.9 [try](promise/try_promise.es6)
 * 13.10 [总结](promise/promise.txt)
 
+### 14、Iterator
+* 14.1 [iterator理解](iterator/start_iterator.es6)
+* 14.2 [默认使用iterator接口的数据结构](iterator/use_iterator.es6)
+* 14.3 [for...of和for...in](iterator/last_iterator.es6)
+
 ### 应用
 * [Set工具](example/set.es6)
 * [Map工具](example/map.es6)
