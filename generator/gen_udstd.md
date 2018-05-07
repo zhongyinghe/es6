@@ -24,3 +24,8 @@ next()第二次，则在第二个yield处停止
 以此类推
 当执行到return时把return的表达式作为value的值，done为true返回，结束Generator函数的遍历
 ```
+5、注意事项
+```
+yield只能在Generator函数里,在其他地方会报错
+yield用在表达式中必须使用(),否则报错
+```
