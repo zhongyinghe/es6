@@ -77,3 +77,24 @@ for (let v of myObj) {
 2)扩展运算符
 3)yield*命令
 ```
+
+8、数组遍历
+```
+for (let v of array) {
+}
+
+for(let k of array.keys()){
+}
+
+for(let v of array.values()){
+}
+
+for(let [index,elem] of array.entries()){
+}
+```
+9、for...of...和for...in...区别
+```
+for...of...要使用必须要部署Symbol.iterator接口的数据对象，否则报错
+for...in...可以直接遍历对象，返回的是对象的键名;
+而for...of...如果用在没有部署Symbol.iterator的对象上是要报错的，而for...in...不会
+```
