@@ -19,3 +19,7 @@ function* eachArray(arr) {
   }
 }
 ```
+同时可以把多维数组边为一维数组,如:
+```
+let array = [...eachArray(arr)]
+```
